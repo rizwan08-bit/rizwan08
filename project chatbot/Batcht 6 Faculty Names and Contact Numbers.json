@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "contact_info_nauman",
+    "examples": ["contact for Nauman", "phone number of Nauman Yousaf", "how to contact Nauman"],
+    "responses": ["You can reach Nauman Yousaf at 3480898513."]
+  },
+  {
+    "intent": "contact_info_rida",
+    "examples": ["contact for Rida", "phone number of Rida Rashid", "how to contact Rida"],
+    "responses": ["You can reach Rida Rashid at 3331976466."]
+  },
+  {
+    "intent": "contact_info_rabika",
+    "examples": ["contact for Rabika", "phone number of Rabika Khalid", "how to contact Rabika"],
+    "responses": ["You can reach Rabika Khalid at 3480007635."]
+  },
+  {
+    "intent": "contact_info_junaid",
+    "examples": ["contact for Junaid", "phone number of Junaid Ali", "how to contact Junaid"],
+    "responses": ["You can reach Junaid Ali at 3449868356."]
+  },
+  {
+    "intent": "contact_info_omair",
+    "examples": ["contact for Omair", "phone number of Omair Imtiaz", "how to contact Omair"],
+    "responses": ["You can reach Omair Imtiaz at 3435199024."]
+  },
+  {
+    "intent": "contact_info_aman",
+    "examples": ["contact for Aman", "phone number of Aman Javed", "how to contact Aman"],
+    "responses": ["You can reach Aman Javed at 3209978350."]
+  },
+  {
+    "intent": "course_info_nauman",
+    "examples": ["which course does Nauman teach", "course of Nauman Yousaf", "Nauman's course"],
+    "responses": ["Nauman Yousaf teaches Digital Marketing."]
+  },
+  {
+    "intent": "course_info_rida",
+    "examples": ["which course does Rida teach", "course of Rida Rashid", "Rida's course"],
+    "responses": ["Rida Rashid teaches Cyber Security."]
+  },
+  {
+    "intent": "course_info_rabika",
+    "examples": ["which course does Rabika teach", "course of Rabika Khalid", "Rabika's course"],
+    "responses": ["Rabika Khalid teaches Data Science."]
+  },
+  {
+    "intent": "course_info_junaid",
+    "examples": ["which course does Junaid teach", "course of Junaid Ali", "Junaid's course"],
+    "responses": ["Junaid Ali teaches Mobile App Development."]
+  },
+  {
+    "intent": "course_info_omair",
+    "examples": ["which course does Omair teach", "course of Omair Imtiaz", "Omair's course"],
+    "responses": ["Omair Imtiaz teaches Video Editing."]
+  },
+  {
+    "intent": "course_info_aman",
+    "examples": ["which course does Aman teach", "course of Aman Javed", "Aman's course"],
+    "responses": ["Aman Javed teaches Ecommerce."]
+  }
+]
